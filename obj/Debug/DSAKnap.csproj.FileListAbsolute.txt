@@ -1,0 +1,38 @@
+c:\users\muhammad awais\documents\visual studio 2013\Projects\DSAKnap\DSAKnap\bin\Debug\DSAKnap.exe.config
+c:\users\muhammad awais\documents\visual studio 2013\Projects\DSAKnap\DSAKnap\bin\Debug\DSAKnap.exe
+c:\users\muhammad awais\documents\visual studio 2013\Projects\DSAKnap\DSAKnap\bin\Debug\DSAKnap.pdb
+c:\users\muhammad awais\documents\visual studio 2013\Projects\DSAKnap\DSAKnap\obj\Debug\DSAKnap.csprojResolveAssemblyReference.cache
+c:\users\muhammad awais\documents\visual studio 2013\Projects\DSAKnap\DSAKnap\obj\Debug\DSAKnap.Properties.Resources.resources
+c:\users\muhammad awais\documents\visual studio 2013\Projects\DSAKnap\DSAKnap\obj\Debug\DSAKnap.csproj.GenerateResource.Cache
+c:\users\muhammad awais\documents\visual studio 2013\Projects\DSAKnap\DSAKnap\obj\Debug\DSAKnap.exe
+c:\users\muhammad awais\documents\visual studio 2013\Projects\DSAKnap\DSAKnap\obj\Debug\DSAKnap.pdb
+c:\users\muhammad awais\documents\visual studio 2013\Projects\DSAKnap\DSAKnap\obj\Debug\DSAKnap.Form1.resources
+C:\Users\Muhammad Awais\Documents\Visual Studio 2013\Projects\DSAKnap\DSAKnap\obj\Debug\DSAKnap.Form2.resources
+C:\Users\Muhammad Awais\Documents\Visual Studio 2013\Projects\DSAKnap\DSAKnap\obj\Debug\DSAKnap.Properties.ChartForm.resources
+C:\Users\Muhammad Awais\Documents\Visual Studio 2013\Projects\DSAKnap\DSAKnap\obj\Debug\DSAKnap.Form3.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\bin\Debug\DSAKnap.exe.config
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\bin\Debug\DSAKnap.exe
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\bin\Debug\DSAKnap.pdb
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.csprojAssemblyReference.cache
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.Properties.ChartForm.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.Properties.Resources.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.csproj.GenerateResource.cache
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.csproj.CoreCompileInputs.cache
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.exe
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.pdb
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.MainForm.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.ChartForm.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.AboutForm.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\bin\Debug\DSAKnap.exe.config
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\bin\Debug\DSAKnap.exe
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\bin\Debug\DSAKnap.pdb
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.csprojAssemblyReference.cache
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.MainForm.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.ChartForm.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.AboutForm.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.Properties.ChartForm.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.Properties.Resources.resources
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.csproj.GenerateResource.cache
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.csproj.CoreCompileInputs.cache
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.exe
+E:\3rd Semester\DSA LAB\Project\Fractional_Knapsack-master\Knapsack\DSAKnap\obj\Debug\DSAKnap.pdb
